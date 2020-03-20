@@ -1,0 +1,27 @@
+{
+  "name": "@aestheticbookshelf/threejs3dchesspieces",
+  "version": "1.0.1",
+  "description": "Three.js 3d chess pieces.",
+  "main": "lib/threejs3dchesspieces.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "three.js",
+    "3d",
+    "chess",
+    "piece"
+  ],
+  "author": "aestheticbookshelf",
+  "license": "MIT",
+  "homepage": "https://github.com/aestheticbookshelf/threejs3dchesspieces",
+  "bugs": {
+    "url": "https://github.com/aestheticbookshelf/threejs3dchesspieces/issues",
+    "email": "aestheticbookshelf@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aestheticbookshelf/threejs3dchesspieces.git"
+  },
+  "dependencies": {}
+}
